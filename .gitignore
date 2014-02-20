@@ -1,0 +1,8 @@
+common.py
+common.pyc
+a.out
+sift_pull.cpp
+*.txt
+*.png
+scripts/
+*.jpg
